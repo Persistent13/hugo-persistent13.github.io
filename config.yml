@@ -1,0 +1,35 @@
+baseurl: "http://juvenoia.com/"
+languageCode: "en-us"
+title: "Juvenoia"
+theme: "hugo-steam-theme"
+# disqusShortname: "spf13"
+paginate: 10
+builddrafts: false
+
+params:
+  title: "Juvenoia"
+  subtitle: "DevOps for Windows"
+  copyright: "Released under the MIT license."
+  # You can choose between green, orange, red and blue.
+  themeColor: "blue"
+  # Enable Google Analytics be inserting your tracking code
+  # googleAnalytics: ""  
+  # To provide some metadata for search engines and the about section in the footer
+  # feel free to add a few information about you and your website.
+  name: "Dakota Clark"
+  bio: "Automating the world. DevOps, Cloud and Coding checkout my [GitHib](https://github.com/Persistent13) and add me on [LinkedIn](https://www.linkedin.com/in/dakota-clark-33053396)!"
+  description: "DevOps for Windows"
+  # location: "" # optional
+  # twitter: "" # optional
+  github: "Persistent13" # optional
+  linkedin: "dakota-clark-33053396" # optional
+  # Enable a comment system
+  # You can choose between Disqus or Google Plus by setting comments
+  # to disqus or googleplus. For using Disqus you need to enter your
+  # shortname in disqusShortname at the top of the configs.
+  comments: "googleplus"
+  # Customize or translate the strings
+  keepReadingStr: "Keep reading"
+  backtotopStr: "Back to top"
+  shareStr: "Share"
+  pageNotFoundTitle: "404 - Page not found"
